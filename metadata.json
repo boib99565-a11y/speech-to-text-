@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Transcribe Pro",
+  "description": "A world-class real-time transcription and voice interaction application powered by Gemini 2.5 Flash. Experience low-latency, human-like conversations with live text feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
